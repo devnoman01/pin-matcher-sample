@@ -21,7 +21,7 @@ body {
     width: 180px;
     padding: 50px;
     border-radius: 50%;
-    border: 8px solid darkgreen;
+    border: 8px solid #425062;
     background-color: rgba(92, 184, 92, 0.9);;
     color: #ffffff;
     font-weight: bold;
@@ -34,6 +34,7 @@ body {
 }
 
 input[type='text']{
+    text-align: center;
     background-color: #3D4153;
     padding: 10px 0px;
     color: #ffffff;
